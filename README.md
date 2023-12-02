@@ -12,3 +12,5 @@ Template of docker compose to create django project with Ngnix, Gunicorn, Postre
 
 
 Docker compose separated into dev with debug options and prod
+
+
